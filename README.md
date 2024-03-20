@@ -37,7 +37,7 @@ Meta are also providing downloads on [Hugging Face](https://huggingface.co/meta-
 You can follow the steps below to quickly get up and running with Llama 2 models. These steps will let you run quick inference locally. 
 
 1. ```
-   conda create -f env.yaml
+   conda env create -f env.yaml
    ```
 
 2. In the top-level directory run:
